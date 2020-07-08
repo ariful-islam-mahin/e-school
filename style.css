@@ -1,0 +1,52 @@
+p{
+    color: #585859;
+}
+.border-r-10{
+    border-radius: 10px;
+}
+.border-r-18{
+    border-radius: 18px;
+}
+.logo{
+    width: 180px;
+}
+.man-img{
+    width: 120px;
+}
+.sm-img{
+    width: 60px;
+}
+.sm-icon{
+    width: 20px;
+}
+.navbar{
+    background-color: transparent !important;
+}
+.nav-link{
+    color: #000000 !important;
+}
+.header-sec{
+    background-color: #f0fff0;
+}
+.footer-sec{
+    background-color: #282531;
+}
+.grn-btn{
+    background-color: #21b573;
+    border-radius: 30px;
+}
+.grn-text{
+    color: #21b573;
+}
+.orng-text{
+    color: #fd511a;
+}
+.learn-item{
+    background-color: #f8fffb;
+    height: 270px;
+    transition: 0.3s;
+}
+.learn-item:hover{
+    box-shadow:  0px 20px 40px rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
